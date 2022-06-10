@@ -1,1 +1,1 @@
-program for C
+C language
